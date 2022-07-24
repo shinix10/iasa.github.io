@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: http://shinix10.github.io/iasa.github.io//iasa.github.io/sitemap.xml
