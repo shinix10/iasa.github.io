@@ -1,7 +1,7 @@
 ---
 title: Example
 author: IASA
-date: 2022-08-08 11:33:00 +0800
+date: 2022-07-08 11:33:00 +0800
 categories: [Manifesto]
 tags: [example]
 math: true
