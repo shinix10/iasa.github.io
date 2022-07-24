@@ -1,6 +1,6 @@
 ---
 title: Manifesto
-icon: fa-cloud-upload
+icon: fas fa-cloud-upload
 order: 5
 ---
 
